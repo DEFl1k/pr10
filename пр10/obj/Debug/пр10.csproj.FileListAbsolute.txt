@@ -1,0 +1,8 @@
+C:\Users\daun-\Desktop\1\пр10\пр10\bin\Debug\пр10.exe.config
+C:\Users\daun-\Desktop\1\пр10\пр10\bin\Debug\пр10.exe
+C:\Users\daun-\Desktop\1\пр10\пр10\bin\Debug\пр10.pdb
+C:\Users\daun-\Desktop\1\пр10\пр10\obj\Debug\пр10.csproj.AssemblyReference.cache
+C:\Users\daun-\Desktop\1\пр10\пр10\obj\Debug\пр10.csproj.SuggestedBindingRedirects.cache
+C:\Users\daun-\Desktop\1\пр10\пр10\obj\Debug\пр10.csproj.CoreCompileInputs.cache
+C:\Users\daun-\Desktop\1\пр10\пр10\obj\Debug\пр10.exe
+C:\Users\daun-\Desktop\1\пр10\пр10\obj\Debug\пр10.pdb
